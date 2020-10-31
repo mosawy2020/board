@@ -1,0 +1,41 @@
+body{
+    background-color: #ADADAD;
+}
+div{
+    padding: 1px;
+    margin-top: 100px;
+    background-color: gray;
+    text-align: center;
+    border-radius: 20px;
+}
+header h1 a{
+    font-size: xx-large;
+    color: black;
+}
+header{
+    margin-top: 30px;
+    display: flex;
+}
+.right{
+    text-align: right;
+    color: black;
+    font-size: xx-large;
+    margin-left: 900px;
+    margin-top: 30px;
+}
+form{
+    background-color: white;
+    color: darkgray;
+    border-radius: 25px;
+    padding: 50px;
+}
+.in{
+    background-color: black;
+    color: white;
+    border-radius: 30px;
+}
+.ed{
+    text-align: center;
+    color: black;
+    display: inline-block;
+}
